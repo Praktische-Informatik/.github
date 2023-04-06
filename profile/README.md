@@ -1,9 +1,3 @@
 ## Hi there 👋
 
-
-🙋‍♀️ A short introduction - what is your organization all about? <br>
-🌈 Contribution guidelines - how can the community get involved? <br>
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?<br>
-🍿 Fun facts - what does your team eat for breakfast?<br>
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+Du hast Spaß am Programmieren (oder willst programmieren lernen) und möchtest zum Beispiel Dein eigenes Game entwickeln? Dann ist das berufliche Gymnasium an der Max-Eyth-Schule in Kassel mit dem Schwerpunkt Praktische-Informatik vielleicht genau das Richtige für Dich! Hier lernst Du nicht nur die Grundlagen der Informatik, sondern auch, wie du mit modernen Tools wie SFML und Arduino spannende und interaktive Projekte umsetzen kannst. Ob 2D-Action-Game oder Entwicklung eines ferngesteuerten Autos (inkl. 3D-Druck), ob für PC oder Smartphone - deiner Kreativität sind keine Grenzen gesetzt! Bewirb dich jetzt und starte deine Karriere als Informatiker an der MES in Kassel mit dem Beruflichen Gymnasium! 
